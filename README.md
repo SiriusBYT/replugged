@@ -1,49 +1,11 @@
 # Replugged
 
-[Website](https://replugged.dev) | [Discord](https://discord.gg/HnYFUhv4x4) |
-[Developer Guide](https://guide.replugged.dev) | [API Docs](https://docs.replugged.dev)  
-(API docs will be replaced with the guide in the future)
+**WARNING**  
+I do not know how to actually write Typescript nor how to proprely read it. I made this fork as I'm tired of waiting for ages for my favorite client to fix shit that already has a pull request ready for it.  
+Naturally because of this, I actually don't know what the hell any of the code does. So when I mean that you should run this at your own risk, you REALLY should be!  
+While I will personally risk myself using it, just note that it wouldn't be unlikely that shit hits the fan. **You've been warned.**
 
 ## Installation
 
-Download Replugged from https://replugged.dev/download
-
-## Contributing to Replugged
-
-Please see [the guide](https://guide.replugged.dev/docs/contributing/replugged) for information on
-how to contribute to the Replugged. Thanks for your help!
-
-## FAQ
-
-### Is this against the ToS?
-
-Long story short... **yes**. Replugged is against the Discord Terms of Service — but, you should
-keep reading:
-
-As of right now, **Discord is not going out of their way to detect client mods or ban client mod
-users**. On top of that, Replugged does not make any manual HTTP requests unlike certain client mods
-/ plugins, so your client's user agent is the same as a legitimate client. Meaning, Discord doesn't
-detect a client mod like Replugged. They can go out of their way to start detecting it, but they
-don't.
-
-Hypothetically speaking - even if they somehow did detect Replugged, users are very unlikely to be
-banned on sight. It doesn't make sense for Discord to start banning a substantial part of it's
-userbase (client mod users) without any kind of warning. Not to mention it is mandatory for
-Replugged plugins to be fully API-compliant and ethical, implying Replugged users can't be banned
-for indirect ToS violations (e.g. selfbotting).
-
-### Can I use Powercord plugins or themes?
-
-No. Replugged was originally based on Powercord, but it is not anymore. Due to the new plugin/theme
-format, as well as Discord changes, Powercord plugins and themes will have to be rewritten.
-
-### Can I use plugins and themes from legacy Replugged?
-
-As mentioned above, legacy plugins and themes will need to be rewriten due to Discord changes, as
-well as changes to our plugin/theme format.
-
-### Can I use BetterDiscord plugins?
-
-Not right now. Previously, [BDCompat](https://github.com/Juby210/bdCompat) was used to run
-BetterDiscord plugins. However, this has not been rewritten for the Replugged rewrite. Unless
-someone creates a version for the Replugged rewrite, BetterDiscord plugins are not supported.
+Follow the **"manual" installation instructions** from Replugged on https://replugged.dev/download  
+*But obviously replace their repository with this one instead.*
